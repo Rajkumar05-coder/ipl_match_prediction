@@ -1,0 +1,4 @@
+match_id,team1,team2,venue,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets
+1,MI,CSK,Mumbai,MI,bat,MI,20,0
+2,RCB,KKR,Bangalore,RCB,field,RCB,0,5
+3,SRH,DC,Hyderabad,DC,bat,SRH,10,0
